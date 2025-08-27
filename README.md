@@ -5,3 +5,5 @@ Paper: https://www.biorxiv.org/content/10.1101/2024.10.03.615261v2.full.pdf
 
 Challenge: https://eeg2025.github.io/
 Paper: https://arxiv.org/abs/2506.19141
+
+To create the environment, enter the command conda env create -f environment.yml
